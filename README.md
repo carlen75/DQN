@@ -1,4 +1,4 @@
-# QDN：DQN Implementation for CartPole
+# DQN：DQN Implementation for CartPole
 
 This is a from-scratch implementation of the Deep Q-Network (DQN) algorithm using PyTorch to solve the CartPole-v1 environment from OpenAI Gym.
 

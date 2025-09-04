@@ -10,7 +10,7 @@ This is a from-scratch implementation of the Deep Q-Network (DQN) algorithm usin
 ## Results
 After training for 500 episodes, the agent achieved an average reward of over 195 (out of a maximum of 200) in the CartPole environment.
 
-![Training Progress](/reward_plot.png) # 这里显示你上传的图片
+![Training Progress](/reward_plot.png) # 回头上传图片
 
 ## How to Run the Code
 1. Install the required packages: `pip install gym numpy torch`
